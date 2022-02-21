@@ -1,4 +1,5 @@
-
+if PlaceId == 7842028704 then
+end
 if game:GetService("CoreGui"):FindFirstChild("MUKURO GUI") then
 	game:GetService("CoreGui"):FindFirstChild("MUKURO GUI"):Destroy()
 end
