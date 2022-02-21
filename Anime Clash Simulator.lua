@@ -1,5 +1,4 @@
-_G.Color = Color3.fromRGB(255, 255, 255)
-_G.Toggle = Enum.KeyCode.RightControl
+
 if game:GetService("CoreGui"):FindFirstChild("MUKURO GUI") then
 	game:GetService("CoreGui"):FindFirstChild("MUKURO GUI"):Destroy()
 end
